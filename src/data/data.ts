@@ -17,7 +17,7 @@ export const mySkills = {
   programmingLanguages: ["JavaScript", "Typescript", "PHP"],
   frontend: ["ReactJS"],
   backend: ["NodeJS", "Express.js", "Laravel", "Firebase", "MySQL", "MongoDB"],
-  mobile: ["Java, Kotlin"],
+  mobile: ["Java", "Kotlin"],
   others: ["Figma", "Postmen", "RestFull", "Git"],
 };
 
