@@ -5,6 +5,7 @@ import {
   InstagramIcon,
   LinkedinIcon,
   MailIcon,
+  GlobeIcon,
 } from "lucide-react";
 import { DiscordIcon, WhatsAppIcon } from "./Icons";
 
@@ -27,6 +28,11 @@ const Footer = () => {
       id: "github",
       icon: <GithubIcon size={20} />,
       url: myContacts.github,
+    },
+    {
+      id: "github",
+      icon: <GlobeIcon size={20} />,
+      url: myContacts.global,
     },
   ];
 
@@ -58,6 +64,10 @@ const Footer = () => {
               <li className="flex flex-row items-center gap-2">
                 <DiscordIcon size={18} className="inline-block text-blue-400" />
                 {myContacts.discord}
+              </li>
+              <li className="flex flex-row items-center gap-2">
+                <GlobeIcon size={18} className="inline-block text-blue-400" />
+                {myContacts.dunia}
               </li>
             </ul>
           </div>

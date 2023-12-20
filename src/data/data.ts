@@ -26,10 +26,12 @@ export const toolsIUse = ["intelliJ IDEA", "VSCode"];
 export const myContacts = {
   email: "ibrahimelgibran17@gmail.com",
   phone: "+6285876076005",
+  dunia: "ibrahimelgibran.com",
   discord: "Gibrannn.#7156",
   linkedin: "https://www.linkedin.com/in/ibrahimelgibran/",
   github: "https://github.com/ibrahimelgibran",
   instagram: "https://www.instagram.com/elgibran17/",
+  global: "https://ibrahimelgibran.com/",
 };
 
 export const myProjects = [
