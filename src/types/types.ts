@@ -5,5 +5,4 @@ export interface ProjectData {
   git: string | null;
   image: string | null;
   techUsed: string[];
-  contact: string | null;
 }

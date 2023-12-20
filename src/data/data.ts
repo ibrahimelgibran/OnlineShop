@@ -39,8 +39,7 @@ export const myProjects = [
       "This is a personal branding project that I created using Next JS, Tailwind CSS, and Framer Motion.",
     image: "project-1.png",
     link: "https://ibrahimelgibran.com/",
-    contact:
-      "https://api.whatsapp.com/send?phone=6285876076005&text=Assalamualaiku%20%0A%0ASekian%20Terima%20Kasih%20Wassalamualaikum%20Wr.Wb",
+    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Assalamualaiku%20%0A%0ASekian%20Terima%20Kasih%20Wassalamualaikum%20Wr.Wb",
     techUsed: ["Next JS", "Tailwind CSS", "Framer Motion"],
   },
 ];

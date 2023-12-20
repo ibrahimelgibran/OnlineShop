@@ -1,5 +1,5 @@
 import { ProjectData } from "@/types/types";
-import { ExternalLinkIcon, FolderGit2Icon } from "lucide-react";
+import { ExternalLinkIcon, FolderGit2Icon, Contact2Icon } from "lucide-react";
 import Image from "next/image";
 
 interface Props {
@@ -46,7 +46,7 @@ const ProjectModal = ({ project }: Props) => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <FolderGit2Icon size={20} />
+                <Contact2Icon size={20} />
               </a>
             )}
             {project.link && (

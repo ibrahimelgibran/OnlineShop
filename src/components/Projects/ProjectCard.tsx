@@ -34,9 +34,9 @@ const ProjectCard = ({ project }: Props) => {
         />
         <div className="flex justify-between gap-2 p-4">
           <div className="flex gap-2">
-            {project.contact && (
+            {project.git && (
               <a
-                href={project.contact}
+                href={project.git}
                 className="inline-flex rounded-sm bg-blue-400 px-2 py-1.5 text-white"
                 target="_blank"
                 rel="noopener noreferrer"
