@@ -24,7 +24,7 @@ export const mySkills = {
 export const toolsIUse = ["intelliJ IDEA", "VSCode"];
 
 export const myContacts = {
-  email: "ibrahimelgibran@gmail.com",
+  email: "ibrahimelgibran17@gmail.com",
   phone: "+6285876076005",
   discord: "Gibrannn.#7156",
   linkedin: "https://www.linkedin.com/in/ibrahimelgibran/",
