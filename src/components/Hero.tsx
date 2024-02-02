@@ -13,7 +13,7 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.4 }}
         >
-          Hi, I am
+          Hi, Welcome
         </motion.span>
         <motion.h1
           className="text-3xl font-bold uppercase md:text-5xl"
