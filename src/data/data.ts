@@ -94,7 +94,7 @@ export const myProjects = [
     description:
       "This is a CBT online SMK MUHAMMADIYAH GAMPING for students ESKAMUGA with own fiture complite, i created using tech stack Codeigniter 4, CSS, Bootstrap, JavaScript, MYSQL.",
     image: "project-9.jpg",
-    link: null,
+    link: "https://ujianonline.smksmuhammadiyahgamping.sch.id/",
     git: "https://api.whatsapp.com/send?phone=6285876076005&text=Assalamualaiku%20%0A%0ASekian%20Terima%20Kasih%20Wassalamualaikum%20Wr.Wb",
     techUsed: ["Codeigniter 4", "Bootstrap", "MYSQL"],
   },
