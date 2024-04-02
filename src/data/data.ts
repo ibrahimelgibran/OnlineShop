@@ -24,7 +24,7 @@ export const toolsIUse = [
   "VSCode",
   "MonggoDB",
   "MYSQL",
-  "Postmen",
+  "Postman",
 ];
 
 export const myContacts = {
