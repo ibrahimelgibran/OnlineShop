@@ -14,14 +14,18 @@ export const aboutMe =
   "Hi There 👋, I’m a Software Engineer ⚡, I create stunning websites for your business, experienced mid level in web design and development as well as mobile developer 👨‍💻. ";
 
 export const mySkills = {
-  programmingLanguages: ["JavaScript", "Typescript", "PHP"],
-  frontend: ["ReactJS"],
-  backend: ["NodeJS", "Express.js", "Laravel", "Firebase", "MySQL", "MongoDB"],
-  mobile: ["Java", "Kotlin"],
-  others: ["Figma", "Postmen", "RestFull", "Git"],
+  teckstack: ["Java", "Spring", "React", "NodeJS", "Laravel", "Codeigniter"],
 };
 
-export const toolsIUse = ["intelliJ IDEA", "VSCode"];
+export const toolsIUse = [
+  "NetBeans",
+  "intelliJ IDEA",
+  "DataGrip",
+  "VSCode",
+  "MonggoDB",
+  "MYSQL",
+  "Postmen",
+];
 
 export const myContacts = {
   email: "ibrahimelgibran17@gmail.com",
