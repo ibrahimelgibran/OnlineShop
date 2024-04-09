@@ -130,7 +130,7 @@ export const myProjects = [
     techUsed: ["REACTJS", "Vite"],
   },
   {
-    title: "Platform Zakat and Donasi - WebApp",
+    title: "Zakat and Donasi - WebApp",
     description:
       "This is a building platform Zakat and Donasi project that I created using Codeigniter 4, Bootstrap and MYSQL",
     image: "project-014.png",
