@@ -90,7 +90,7 @@ const Footer = () => {
         <div className="flex place-content-between border-t-4 border-dashed border-slate-100 py-4 text-sm dark:border-slate-800">
           <span>Copyright © {year}</span>
           <span>
-            Created with{" "}
+            made with{" "}
             <HeartIcon
               size={20}
               className="inline-block fill-blue-400 text-blue-400"
