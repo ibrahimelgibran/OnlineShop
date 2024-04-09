@@ -85,6 +85,15 @@ export const myProjects = [
     techUsed: ["Tailwind CSS", "Bootstrap"],
   },
   {
+    title: "Zakat and Donasi - WebApp",
+    description:
+      "This is a building platform Zakat and Donasi project that I created using Codeigniter 4, Bootstrap and MYSQL",
+    image: "project-014.png",
+    link: "https://zakat.smksmuhammadiyahgamping.sch.id/",
+    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Platform%20Zakat%20and%20Donasi%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
+    techUsed: ["Codeigniter 4, Bootstrap and MYSQL"],
+  },
+  {
     title: "Profil Restaurant - WebApp",
     description:
       "This is a personal branding project that I created using Tailwind CSS and Bootstap.",
@@ -128,15 +137,6 @@ export const myProjects = [
     link: "https://projectprofilebuyr.vercel.app",
     git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Company%20Profil%20BUYR%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
     techUsed: ["REACTJS", "Vite"],
-  },
-  {
-    title: "Zakat and Donasi - WebApp",
-    description:
-      "This is a building platform Zakat and Donasi project that I created using Codeigniter 4, Bootstrap and MYSQL",
-    image: "project-014.png",
-    link: "https://zakat.smksmuhammadiyahgamping.sch.id/",
-    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Platform%20Zakat%20and%20Donasi%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
-    techUsed: ["Codeigniter 4, Bootstrap and MYSQL"],
   },
   {
     title: "Portfolio Personal v3 - WebApp",
