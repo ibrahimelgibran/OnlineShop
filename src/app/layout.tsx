@@ -5,8 +5,8 @@ import Providers from "./providers";
 const jetbrainsMono = JetBrains_Mono({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "IegCode Business - Ibrahim El Gibran",
-  description: "My personal Business website by IegCode",
+  title: "IegCode - Business",
+  description: "My personal Business website by Ibrahim El Gibran",
 };
 
 export default function RootLayout({
