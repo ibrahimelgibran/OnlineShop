@@ -2,7 +2,7 @@ export const myInfo = {
   name: "IEGCODE STORE",
   role1: "Web Developer",
   role2: "Mobile Developer",
-  email: "ibrahimelgibran17@gmail.com",
+  email: "iegcodeid@gmail.com",
   phone: "085876076005",
   website: "https://ibrahimelgibran.com",
   github: "https://github.com/ibrahimelgibran",
@@ -33,7 +33,7 @@ export const toolsIUse = [
 ];
 
 export const myContacts = {
-  email: "ibrahimelgibran17@gmail.com",
+  email: "iegcodeid@gmail.com",
   phone: "+6285876076005",
   dunia: "ibrahimelgibran.com",
   discord: "Gibrannn.#7156",
@@ -144,6 +144,15 @@ export const myProjects = [
     techUsed: ["REACTJS", "Vite"],
   },
   {
+    title: "E-Learning Free - WebApp",
+    description:
+      "This is a Free Access Course Online project that I created using Codeigniter, Bootstrap and MYSQL.",
+    image: "project-017.png",
+    link: null,
+    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Learning%20Free%20Course%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
+    techUsed: ["REACTJS", "Vite"],
+  },
+  {
     title: "Portfolio Personal v3 - WebApp",
     description:
       "This is a personal branding project that I created using REACTJS.",
@@ -151,5 +160,23 @@ export const myProjects = [
     link: "https://iegresumeportfolio.vercel.app",
     git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Portfolio%20Personal%20v3%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
     techUsed: ["REACTJS"],
+  },
+  {
+    title: "Ordering Service - WebApp",
+    description:
+      "This is a Cleanee Ordering Trash Package project that I created using Codeigniter, Bootstrap and MYSQL",
+    image: "project-016.png",
+    link: null,
+    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Ordering%20Service%20Cleanee%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
+    techUsed: ["REACTJS"],
+  },
+  {
+    title: "Whiteboard Notes - WebApp",
+    description:
+      "This is a Whiteboard Notes project that I created using NextJS.",
+    image: "project-015.png",
+    link: "https://todolistiegcode.vercel.app/",
+    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Whiteboard%20Notes%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
+    techUsed: ["NextJS"],
   },
 ];
