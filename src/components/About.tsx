@@ -13,7 +13,7 @@ const About = () => {
         <div className="mt-5 border-t-4 border-dashed border-blue-500 pt-5">
           <h3 className="mb-3 text-xl font-bold">Skills</h3>
           <div className="flex flex-col gap-3">
-            <Skills title="Mobile Dev" skills={mySkills.teckstack} />
+            <Skills skills={mySkills} />
           </div>
         </div>
         <div className="mt-5 border-t-4 border-dashed border-blue-500 pt-5">

@@ -13,9 +13,14 @@ export const myInfo = {
 export const aboutMe =
   "Hi There 👋, I’m a Software Engineer ⚡, I create stunning websites for your business, experienced mid level in web design and development as well as mobile developer 👨‍💻. ";
 
-export const mySkills = {
-  teckstack: ["Java", "Spring", "React", "NodeJS", "Laravel", "Codeigniter"],
-};
+export const mySkills = [
+  "Java",
+  "Spring",
+  "React",
+  "NodeJS",
+  "Laravel",
+  "Codeigniter",
+];
 
 export const toolsIUse = [
   "NetBeans",
