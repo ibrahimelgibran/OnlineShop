@@ -110,7 +110,7 @@ export const myProjects = [
   {
     title: "Youtube Clone - WebApp",
     description:
-      "This is a Youtube Clone No Ads project that I created using REACTJS",
+      "This is a Youtube Clone No Ads project that I created using NextJS",
     image: "project-26.png",
     link: "https://sotoijomonjali.com/",
     git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Youtube%20Clone%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
@@ -191,7 +191,7 @@ export const myProjects = [
   {
     title: "Marketplace - WebApp",
     description:
-      "This is a E-Commerce Marketplace project that I created using NextJS.",
+      "This is a E-Commerce Marketplace project that I created using Codeigniter, Bootstrap, MYSQL",
     image: "project-21.png",
     link: null,
     git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Marketplace%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
@@ -200,7 +200,7 @@ export const myProjects = [
   {
     title: "Company Profile - WebApp",
     description:
-      "This is a Company Profile project that I created using NextJS.",
+      "This is a Company Profile project that I created using Codeigniter, Bootstrap, MYSQL",
     image: "project-22.png",
     link: null,
     git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Company%20Profile%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
@@ -217,7 +217,8 @@ export const myProjects = [
   },
   {
     title: "Voting Puas - WebApp",
-    description: "This is a Voting Puas. project that I created using NextJS.",
+    description:
+      "This is a Voting Puas. project that I created using Codeigniter, Bootstrap, MYSQL.",
     image: "project-24.png",
     link: null,
     git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Voting%20Puas%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
@@ -226,7 +227,7 @@ export const myProjects = [
   {
     title: "Platform Queue - WebApp",
     description:
-      "This is a Platform Queue. project that I created using NextJS.",
+      "This is a Platform Queue. project that I created using Codeigniter, Bootstrap, MYSQL",
     image: "project-25.png",
     link: null,
     git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Platform%20Queue%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
