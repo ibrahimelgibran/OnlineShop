@@ -108,6 +108,15 @@ export const myProjects = [
     techUsed: ["HTML", "CSS", "Bootstrap", "JavaScript"],
   },
   {
+    title: "Youtube Clone - WebApp",
+    description:
+      "This is a Youtube Clone No Ads project that I created using REACTJS",
+    image: "project-26.png",
+    link: "https://sotoijomonjali.com/",
+    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Youtube%20Clone%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
+    techUsed: ["REACTJS"],
+  },
+  {
     title: "CBT Online - WebApp",
     description:
       "This is a CBT online SMK MUHAMMADIYAH GAMPING for students ESKAMUGA with own fiture complite, i created using tech stack Codeigniter 4, CSS, Bootstrap, JavaScript, MYSQL.",
@@ -150,6 +159,15 @@ export const myProjects = [
     image: "project-017.png",
     link: null,
     git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20E-Learning%20Free%20Course%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
+    techUsed: ["Codeigniter", "Bootstrap", "MYSQL"],
+  },
+  {
+    title: "E-Learning Premium - WebApp",
+    description:
+      "This is a Free Access Course and Premium Online project that I created using Codeigniter, Bootstrap and MYSQL.",
+    image: "project-018.png",
+    link: null,
+    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20E-Learning%20Versi%20Premium%20Course%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
     techUsed: ["REACTJS", "Vite"],
   },
   {
@@ -171,12 +189,47 @@ export const myProjects = [
     techUsed: ["REACTJS"],
   },
   {
-    title: "Whiteboard Notes - WebApp",
+    title: "Marketplace - WebApp",
     description:
-      "This is a Whiteboard Notes project that I created using NextJS.",
-    image: "project-015.png",
-    link: "https://todolistiegcode.vercel.app/",
-    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Whiteboard%20Notes%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
-    techUsed: ["NextJS"],
+      "This is a E-Commerce Marketplace project that I created using NextJS.",
+    image: "project-21.png",
+    link: null,
+    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Marketplace%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
+    techUsed: ["Codeigniter", "Bootstrap", "MYSQL"],
+  },
+  {
+    title: "Company Profile - WebApp",
+    description:
+      "This is a Company Profile project that I created using NextJS.",
+    image: "project-22.png",
+    link: null,
+    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Company%20Profile%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
+    techUsed: ["Codeigniter", "Bootstrap", "MYSQL"],
+  },
+  {
+    title: "CMS Desa - WebApp",
+    description:
+      "This is a CMS Desa with a add feature Zakat, Donasi, Documentasi, News, Acara Kegiatan. project that I created using NextJS.",
+    image: "project-23.png",
+    link: null,
+    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20CMS%20Desa%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
+    techUsed: ["Codeigniter", "Bootstrap", "MYSQL"],
+  },
+  {
+    title: "Voting Puas - WebApp",
+    description: "This is a Voting Puas. project that I created using NextJS.",
+    image: "project-24.png",
+    link: null,
+    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Voting%20Puas%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
+    techUsed: ["Codeigniter", "Bootstrap", "MYSQL"],
+  },
+  {
+    title: "Platform Queue - WebApp",
+    description:
+      "This is a Platform Queue. project that I created using NextJS.",
+    image: "project-25.png",
+    link: null,
+    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Platform%20Queue%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
+    techUsed: ["Codeigniter", "Bootstrap", "MYSQL"],
   },
 ];
