@@ -85,7 +85,7 @@ export const myProjects = [
     description:
       "This is a personal branding project that I created using Tailwind CSS and Bootstap.",
     image: "project-06.png",
-    link: "https://ibrahimelgibran.github.io/PersonalTemplate/",
+    link: "https://elgibran.vercel.app/",
     git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Portfolio%20Personal%20v2%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
     techUsed: ["Tailwind CSS", "Bootstrap"],
   },
