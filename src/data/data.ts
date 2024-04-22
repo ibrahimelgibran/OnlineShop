@@ -108,6 +108,15 @@ export const myProjects = [
     techUsed: ["HTML", "CSS", "Bootstrap", "JavaScript"],
   },
   {
+    title: "POS Kasir - WebApp",
+    description:
+      "This is a building platform Point Of Sale System Kasir Restaurant project that I created using PHP Native, Bootstrap and MYSQL",
+    image: "project-27.png",
+    link: null,
+    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Platform%20POS(Point Of Sale)%20System%20Kasir%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
+    techUsed: ["PHP Native, Bootstrap and MYSQL"],
+  },
+  {
     title: "Youtube Clone - WebApp",
     description:
       "This is a Youtube Clone No Ads project that I created using NextJS",
