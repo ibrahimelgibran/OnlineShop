@@ -27,7 +27,7 @@ export const toolsIUse = [
   "intelliJ IDEA",
   "DataGrip",
   "VSCode",
-  "MonggoDB",
+  "MongoDB",
   "MYSQL",
   "Postman",
 ];
