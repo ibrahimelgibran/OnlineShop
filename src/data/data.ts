@@ -188,15 +188,15 @@ export const myProjects = [
     git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Portfolio%20Personal%20v3%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
     techUsed: ["REACTJS"],
   },
-  {
-    title: "Ordering Service - WebApp",
-    description:
-      "This is a Cleanee Ordering Trash Package project that I created using Codeigniter, Bootstrap and MYSQL",
-    image: "project-016.png",
-    link: null,
-    git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Ordering%20Service%20Cleanee%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
-    techUsed: ["REACTJS"],
-  },
+  // {
+  //   title: "Ordering Service - WebApp",
+  //   description:
+  //     "This is a Cleanee Ordering Trash Package project that I created using Codeigniter, Bootstrap and MYSQL",
+  //   image: "project-016.png",
+  //   link: null,
+  //   git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20Ordering%20Service%20Cleanee%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
+  //   techUsed: ["REACTJS"],
+  // },
   {
     title: "Marketplace - WebApp",
     description:
