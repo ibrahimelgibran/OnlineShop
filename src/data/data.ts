@@ -218,7 +218,7 @@ export const myProjects = [
   {
     title: "CMS Desa - WebApp",
     description:
-      "This is a CMS Desa with a add feature Zakat, Donasi, Documentasi, News, Acara Kegiatan. project that I created using NextJS.",
+      "This is a CMS Desa with a add feature Zakat, Donasi, Documentasi, News, Acara Kegiatan. project that I created using Codeigniter, Bootstrap, MYSQL..",
     image: "project-23.png",
     link: null,
     git: "https://api.whatsapp.com/send?phone=6285876076005&text=Hi%20IegCode%F0%9F%91%8B%F0%9F%8F%BB%2C%20Salam%20Kenal!%0A%0ASaya%20Tertarik%20dengan%20Paket%20CMS%20Desa%20-%20WebApp%0A%0ABisakah%20Anda%20memberikan%20informasi%20lebih%20lanjut%20mengenai%20harga%2C%20fitur%20yang%20termasuk%2C%20dan%20proses%20kerjanya%3F%0A%0ATerima%20kasih!",
